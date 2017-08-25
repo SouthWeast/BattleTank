@@ -2,5 +2,6 @@ These are my project files for the battle tank section of this Udemy course: htt
 
 ### Lectures ###
 
-+ Setup GitHub repository
++ Setup GitHub repository and link with Source Tree.
+
 
